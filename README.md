@@ -5,8 +5,7 @@
 
 ## 📌 Project Title
 
-AirBNB Data Analysis Pro
-
+Airbnb Listings & Pricing Analysis using Python
 
 ## 🔴 Business Problem and Answer
 
